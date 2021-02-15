@@ -13,15 +13,3 @@ This System Predict Different types of Disease through given Symptoms.
 
 Datasets contain more than 4000 types of Diseases. 
 
-### You can use this Project in your college and work
-
-******************************************************************************************************************************************************************
-Hi there, 
-
-## HOW TO RUN THIS PROJECT -
-Mail me Now at **vatshayan007@gmail.com** to get Project report, PPT, Project Code and Synopsis.
-
-## CONTACT -
-Mail me at **vatshayan007@gmail.com** to get Help on kind of Project related to Machine Learning, Cryptography, Data Science and Web Development. 
-
-Ask Freely!
